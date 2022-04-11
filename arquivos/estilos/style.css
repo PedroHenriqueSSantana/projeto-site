@@ -1,0 +1,18 @@
+* {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 17px;
+}
+
+body{
+    background-color: rgb(88, 33, 151);
+}
+
+main{
+    background-color: aliceblue;
+    width: 500px;
+    margin: auto;
+    padding: 10px;
+    box-shadow: 3px 3px 5px rgba(64, 64, 228, 0.432);
+
+
+}
